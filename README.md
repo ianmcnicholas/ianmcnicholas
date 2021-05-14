@@ -1,4 +1,4 @@
-### Welcome to the Github page of Ian McNicholas 👋
+### <p align="center">Welcome to the Github page of Ian McNicholas 👋<p>
 
 ### A Junior Software Developer
 
