@@ -5,7 +5,12 @@
 ### <p align="center">[Click here to find out more](https://www.github.com/ianmcnicholas/cv) 🔍<p>
   
   
-##### ⚡ Fun fact:  Once upon a time, I was Project Manager for [this](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).
+##### ⚡ Once upon a time, I was Project Manager for [this](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).
+
+##### 📖 I'm currently reading [this book](https://user-images.githubusercontent.com/75983723/118282576-548d4200-b4c6-11eb-943b-1d399e2b122e.jpeg).
+
+
+
 
 <!--
 **ianmcnicholas/ianmcnicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
