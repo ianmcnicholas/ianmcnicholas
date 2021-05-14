@@ -1,6 +1,6 @@
 ## <p align="center">Welcome to the Github page of Ian McNicholas<p>
 
-### <p align="center">🌱  Junior Software Developer  🌱<p>
+### <p align="center">Junior Software Developer<p>
 
 <!--
 **ianmcnicholas/ianmcnicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
