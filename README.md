@@ -1,6 +1,6 @@
 ### Welcome to the Github page of Ian McNicholas 👋
 
-## A Junior Software Developer
+### A Junior Software Developer
 
 <!--
 **ianmcnicholas/ianmcnicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
