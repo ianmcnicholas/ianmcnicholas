@@ -9,6 +9,10 @@
 
 ##### 📖 I'm currently reading [this book](https://user-images.githubusercontent.com/75983723/118282576-548d4200-b4c6-11eb-943b-1d399e2b122e.jpeg).
 
+##### 💻 Continuing my learning of software with [this course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+
+  
+  
 
 
 
