@@ -7,11 +7,10 @@
   
 ##### ⚡ Once upon a time, I was Project Manager for [this](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).
 
-##### 📖 I'm currently reading [this book](https://user-images.githubusercontent.com/75983723/118282576-548d4200-b4c6-11eb-943b-1d399e2b122e.jpeg).
+##### 📖 I'm currently reading [this book](https://user-images.githubusercontent.com/75983723/169313242-4a0a988b-5663-4bde-9c27-73d04b8a5663.png).
 
-##### 💻 Continuing my learning of software with [this course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+##### 💻 Continuing my learning of software with [this course](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250?start=255#overview).
 
-  
   
 
 
