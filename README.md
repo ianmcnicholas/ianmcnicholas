@@ -7,9 +7,9 @@
   
 ##### ⚡ Once upon a time, I was Project Manager for [this](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).
 
-##### 📖 I'm currently reading [this book](https://user-images.githubusercontent.com/75983723/169313242-4a0a988b-5663-4bde-9c27-73d04b8a5663.png).
+##### 📖 I'm currently reading [this book](![image](https://github.com/ianmcnicholas/ianmcnicholas/assets/75983723/3cf88847-13ed-42dd-85ec-c5f121340c66)).
 
-##### 💻 Continuing my learning of software with [this course](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250?start=255#overview).
+##### 💻 Continuing my learning of software with [[this course](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250?start=255#overview](https://www.udemy.com/course/certified-kubernetes-application-developer/)).
 
   
 
