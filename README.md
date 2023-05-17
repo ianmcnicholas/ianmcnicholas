@@ -9,7 +9,7 @@
 
 ##### 📖 I'm currently reading [this book](https://github.com/ianmcnicholas/ianmcnicholas/assets/75983723/3cf88847-13ed-42dd-85ec-c5f121340c66).
 
-##### 💻 Continuing my learning of software with [[this course](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250?start=255#overview](https://www.udemy.com/course/certified-kubernetes-application-developer/)).
+##### 💻 Continuing my learning of software with [this course](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/3909250?start=255#overview](https://www.udemy.com/course/certified-kubernetes-application-developer/)).
 
   
 
