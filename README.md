@@ -1,6 +1,6 @@
 # <p align="center">Welcome to the Github page of Ian McNicholas<p>
 
-## <p align="center">Junior Software Developer<p>
+## <p align="center">Software Developer<p>
   
 ### <p align="center">[Click here to find out more](https://www.github.com/ianmcnicholas/cv) 🔍<p>
   
