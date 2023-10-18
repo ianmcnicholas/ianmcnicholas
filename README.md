@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to the Github page of Ian McNicholas</h1>
 
 <h2 align="center">Software Developer</h2>
+
 [Click here to find out more](https://www.github.com/ianmcnicholas/cv) 🔍
-  
   
 ⚡ I was Project Manager for [this](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg) construction project.
 
