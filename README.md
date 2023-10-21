@@ -1,4 +1,4 @@
-<p style="color:blue;text-align:center;">Welcome to the Github page of Ian McNicholas</p>
+<p align="center" font-size: 40px>Welcome to the Github page of Ian McNicholas</p>
 
 <p align="center">Software Developer</p>
 
