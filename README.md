@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to the Github page of Ian McNicholas</h1>
+<p align="center">Welcome to the Github page of Ian McNicholas</p>
 
-<h2 align="center">Software Developer</h2>
+<p align="center">Software Developer</p>
 
 Click [here](https://www.linkedin.com/in/ian-m-7a97a8175/) to find out more 🔍
   
