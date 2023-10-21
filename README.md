@@ -1,4 +1,4 @@
-<p align="center" font-size: 10%>Welcome to the Github page of Ian McNicholas</p>
+<span style="font-family:Papyrus; font-size:4em;"><p align="center" font-size: 10%>Welcome to the Github page of Ian McNicholas</p></span>
 
 <p align="center">Software Developer</p>
 
